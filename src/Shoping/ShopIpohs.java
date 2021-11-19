@@ -1,7 +1,5 @@
 package Shoping;
-
 import java.util.*;
-
 public class ShopIpohs {
     List<Products> listproducts;
     public ShopIpohs(List<Products> listproducts) {
